@@ -1,0 +1,32 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.timer {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.questions {
+  margin-bottom: 2rem;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
